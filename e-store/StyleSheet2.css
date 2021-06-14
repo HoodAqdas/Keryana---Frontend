@@ -1,0 +1,107 @@
+﻿@media only screen and (max-width: 1350px) {
+    #leftfilter {
+        display: none;
+    }
+
+    .navli {
+        display: none;
+    }
+
+    .navbg-yellow {
+        background-color: black;
+        display: inline;
+    }
+
+    #navicon {
+        display: none;
+    }
+
+    .navmenu-btn {
+        display: inline;
+    }
+
+    .navmenu-title {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        display: inline;
+    }
+
+    #navcategory {
+        display: inline;
+        margin-left: 5%;
+        cursor: pointer;
+    }
+
+    #navcategory1 {
+        float: right;
+        margin-left: 5%;
+        display: block;
+        cursor: pointer;
+    }
+
+    #navmenu-btn1 {
+        float: right;
+        margin-right: 10%;
+        display: block;
+        cursor: pointer;
+    }
+
+    .search-result {
+        float: right;
+    }
+
+    
+    .filter-btn1 {
+        margin-left: 40%;
+        height: 45px;
+        width: 100%;
+        text-transform: uppercase;
+        cursor: pointer;
+        border: 1px solid #dfdfdf;
+        color: #000;
+        background-color: #fff;
+        padding: 0 10px;
+        font-size: 13px;
+    }
+
+    #filter-btn {
+        display: inline-block;
+    }
+
+    #mainblock {
+        width: 80%;
+        padding: 4%;
+    }
+
+    #productlist {
+        width: 100%;
+    }
+
+    .productborder {
+        margin: 6% auto;
+        box-sizing: border-box;
+        position: relative;
+        border: solid #dfdfdf 1px;
+        padding: 5px;
+        margin-top: 2%;
+        cursor: pointer;
+    }
+
+    .product-image-resize {
+        margin: 6% auto;
+        width: 13em;
+        height: 18em;
+        display: block;
+    }
+
+    .col {
+        width: 50%;
+    }
+
+    .col1 {
+        width: 80%;
+    }
+}
